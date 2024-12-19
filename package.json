@@ -1,6 +1,6 @@
 {
   "name": "adminproject",
-  "homepage": "https://tectonicit.github.io/vehicleadmin/",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
